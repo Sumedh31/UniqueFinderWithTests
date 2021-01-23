@@ -12,7 +12,8 @@ UniqueFinder.py File creates the data of more than 100,000 entries of email addr
 
 # Tests:
 TestsForUniqueFinder.py has several tests that ensures that the UniqueFinder does exactly what it is supposed to do. There are total 8 tests for unique finder in file "TestsForUniqueFinder.py". Following you can see that all the test are passed.
-![Alt text](/TestResults.PNG.PNG?raw=true "Test results")
+
+![Alt text](/TestResults.PNG?raw=true "Test results")
 
 # Peroformance of the script-
 
