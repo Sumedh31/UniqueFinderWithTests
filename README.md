@@ -1,4 +1,6 @@
 # UniqueFinderWithTests
+This little project demonstrates that a random unsorted list if emails of over 100000 addresses is parsed to remove duplicates from it under 1 s.
+There are several unit tests as well whcih ensures the integrity of the code.
 
 # Installation
 First, install the dependencies of this project with pip:
