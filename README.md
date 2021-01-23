@@ -10,5 +10,8 @@ UniqueFinder.py File creates the data of more than 100,000 entries of email addr
 # Tests:
 TestsForUniqueFinder.py has several tests that ensures that the UniqueFinder does exactly what it is supposed to do
 
-# Peroformance of the script
+# Peroformance of the script-
+
+The function was able to remove entries of 100000 emails with half of them are duplicated in under 1 seconds. The function removeduplicates returns a list of Unique elements in their original order.
+
 ![Alt text](/Peroformance.PNG?raw=true "Optional Title")
