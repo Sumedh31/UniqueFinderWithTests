@@ -1,5 +1,6 @@
 # UniqueFinderWithTests
-Installation
+
+# Installation
 First, install the dependencies of this project with pip:
 
 $ pip install -r requirements.txt
