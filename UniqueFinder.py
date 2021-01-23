@@ -25,6 +25,7 @@ def getemailaddressdata(requiredentries):
 
 def removeduplicates(listtocheck):
     seen = {}
+    #seen = set()
     unique = []
     for item in listtocheck:
         if (item not in seen):
